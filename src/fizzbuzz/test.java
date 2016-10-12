@@ -7,8 +7,9 @@ import org.junit.Test;
 public class test {
 
 	@Test
-	public void test() {
-		fail("Not yet implemented");
+	public void multiplode3() {
+		FizzBuzz fizzbuzz = new FizzBuzz();
+		fizzbuzz.multiplo(3,3);
 	}
 
 }
